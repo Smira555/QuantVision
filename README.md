@@ -9,4 +9,5 @@ Mentees : https://docs.google.com/spreadsheets/d/1UxsSyKpN7erAnJIumvf7frdnKtCykU
 
 ### Project Timeline
 
-Week 0: Basics of Python( Numpy, Pandas, Matplotlib), Intro to Google Colab, Github
+* **Week 0:** Basics of Python (Numpy, Pandas, Matplotlib), Intro to Google Colab, Github
+* **Week 1:** Financial Markets & Data Collection
